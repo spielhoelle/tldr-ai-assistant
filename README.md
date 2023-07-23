@@ -3,7 +3,7 @@
 Copy some text, hit the key-combination and get one step closer to the `singularity`
  
 ## Installation
-1. Download the [latest release]()
+1. Download the [latest release](https://github.com/spielhoelle/tldr-ai-assistant/raw/main/tl%3Bdr.alfredworkflow)
 2. Import to alfred
 3. Set your API key and desired model in the workflow variables
 4. Copy some complicated text
