@@ -297,7 +297,9 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string># tl:dr cybernetic enhanced summarization
+
+Copy some text, hit the key-combination and get one step closer to the `singularity`</string>
 	<key>uidata</key>
 	<dict>
 		<key>131327C5-2810-4B01-A546-853999656B14</key>
@@ -364,6 +366,11 @@
 		<key>OPENAI_API_KEY</key>
 		<string>sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>MODEL_TYPE</string>
+		<string>OPENAI_API_KEY</string>
+	</array>
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>

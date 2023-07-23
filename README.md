@@ -13,6 +13,7 @@ Copy some text, hit the key-combination and get one step closer to the `singular
 ![screenshot2](screenshot3.png)
 6. You get a notification with the result and large text result
 ![screenshot](screenshot.png)
+7. You can stop the voice output with `ctrl+alt+cmd+v`
 
 
 ## TODO
