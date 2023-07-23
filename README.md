@@ -20,9 +20,9 @@ Copy some text, hit the key-combination and get one step closer to the `singular
 - [ ] Better notifications
 - [ ] Better text formatting
 - [ ] Self hosted llama2-llm over python endpoint instead of open-ai API 💰 🙅‍♀️
-- [ ] More usa-cases like: 
+- [ ] More use-cases like: 
 	- [ ] summarize the current tab in browser
 	- [ ] explain code snippet
-	- [ ] answer emails and triage 
+	- [ ] answer emails and triage todo's
 	- [ ] integrate with Voice Control
 - [ ] Don't come to late to the [ robot-internet party ](https://www.theverge.com/23753963/google-seo-shopify-small-business-ai)
